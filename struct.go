@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func EmbedeStruct() {
 	type Wheel struct {
 		nums int
 		grade int
