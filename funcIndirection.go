@@ -20,7 +20,7 @@ func (c Circle) scale() {
 	fmt.Println(c.radius)
 }
 
-func main() {
+func Ver() {
 	a := Vertex{80}
 	ap := &Vertex{1}
 
