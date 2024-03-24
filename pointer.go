@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func pointer() {
 	v := 90
 	p := &v
 	*p = 89
